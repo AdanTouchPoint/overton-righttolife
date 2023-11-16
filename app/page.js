@@ -33,7 +33,7 @@ function Home() {
         toGetRepresentativesPerStates:'/representatives-state/',
         toGetRepresentativesPerParty:'/representatives-party/',
         toGetAllRepresentatives:'/all-senators/',
-        toGetRepresentativesByCp:'/find-mp-demo/',
+        toGetRepresentativesByCp:'/find-mp/',
         toGetQuestions:'/questions/',
         toGetMainData:'/main/',
         toGetThankYouMessage:'/typ-message/',
