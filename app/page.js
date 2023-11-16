@@ -11,7 +11,6 @@ import { fetchMainContent } from './assets/petitions/fetchMainContent';
 import { fetchAllLeads } from './assets/petitions/fetchLeads';
 import { fetchConfig } from './assets/petitions/fetchConfig';
 
-//require('dotenv').config()
 function Home() {
   const [configurations , setConfigurations]= useState({
     lenguage: "es",
